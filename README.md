@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Soni</h1>
-<h3 align="center">A passionate full-stack software engineer from India</h3>
+<h3 align="center">A passionate full-stack software engineer from India 🇮🇳</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=019A0C&width=1200&lines=I'm+an+enthusiastic+software+engineer+with+more+than+five+years+of+expertise+in+the+field.)](https://git.io/typing-svg)
 
